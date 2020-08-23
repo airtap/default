@@ -1,6 +1,6 @@
 {
   "name": "airtap-default",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Default browser provider",
   "license": "MIT",
   "author": "Vincent Weevers",
