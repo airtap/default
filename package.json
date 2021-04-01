@@ -15,7 +15,7 @@
   "dependencies": {
     "abstract-browser": "^1.0.0",
     "browser-provider": "^1.1.0",
-    "open": "^7.1.0"
+    "open": "^8.0.4"
   },
   "devDependencies": {
     "depcheck": "^1.2.0",
