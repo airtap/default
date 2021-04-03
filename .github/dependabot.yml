@@ -6,3 +6,4 @@ updates:
       interval: monthly
     ignore:
       - dependency-name: standard
+      - dependency-name: open
